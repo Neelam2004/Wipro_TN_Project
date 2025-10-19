@@ -1,0 +1,14 @@
+C:\Users\neela\OneDrive\Desktop\New folder\MovieTicketApp\bin\Debug\net9.0\MovieTicketApp.exe
+C:\Users\neela\OneDrive\Desktop\New folder\MovieTicketApp\bin\Debug\net9.0\MovieTicketApp.deps.json
+C:\Users\neela\OneDrive\Desktop\New folder\MovieTicketApp\bin\Debug\net9.0\MovieTicketApp.runtimeconfig.json
+C:\Users\neela\OneDrive\Desktop\New folder\MovieTicketApp\bin\Debug\net9.0\MovieTicketApp.dll
+C:\Users\neela\OneDrive\Desktop\New folder\MovieTicketApp\bin\Debug\net9.0\MovieTicketApp.pdb
+C:\Users\neela\OneDrive\Desktop\New folder\MovieTicketApp\obj\Debug\net9.0\MovieTicketApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neela\OneDrive\Desktop\New folder\MovieTicketApp\obj\Debug\net9.0\MovieTicketApp.AssemblyInfoInputs.cache
+C:\Users\neela\OneDrive\Desktop\New folder\MovieTicketApp\obj\Debug\net9.0\MovieTicketApp.AssemblyInfo.cs
+C:\Users\neela\OneDrive\Desktop\New folder\MovieTicketApp\obj\Debug\net9.0\MovieTicketApp.csproj.CoreCompileInputs.cache
+C:\Users\neela\OneDrive\Desktop\New folder\MovieTicketApp\obj\Debug\net9.0\MovieTicketApp.dll
+C:\Users\neela\OneDrive\Desktop\New folder\MovieTicketApp\obj\Debug\net9.0\refint\MovieTicketApp.dll
+C:\Users\neela\OneDrive\Desktop\New folder\MovieTicketApp\obj\Debug\net9.0\MovieTicketApp.pdb
+C:\Users\neela\OneDrive\Desktop\New folder\MovieTicketApp\obj\Debug\net9.0\MovieTicketApp.genruntimeconfig.cache
+C:\Users\neela\OneDrive\Desktop\New folder\MovieTicketApp\obj\Debug\net9.0\ref\MovieTicketApp.dll
